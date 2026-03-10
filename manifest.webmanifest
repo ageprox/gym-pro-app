@@ -1,0 +1,14 @@
+{
+  "name": "GymPro",
+  "short_name": "GymPro",
+  "description": "Rutinas, progreso y nutrición. Funciona como app.",
+  "start_url": "gym.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0c",
+  "theme_color": "#0a0a0c",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
